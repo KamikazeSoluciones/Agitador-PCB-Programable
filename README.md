@@ -43,6 +43,8 @@ Para instalar el dispositivo, siga los siguientes pasos y conecte como se muestr
     Conecte el potenciómetro al Arduino y a la pantalla LCD.
     Conecte el cloruro férrico y las láminas fenólicas al dispositivo.
     Cargue el código en el Arduino y encienda el dispositivo.
+    
+![Diagram](https://user-images.githubusercontent.com/89432904/230784781-0e57c439-7b25-407e-b503-335530997e15.jpg)
 
 USO
 Para utilizar el dispositivo, siga los siguientes pasos:
