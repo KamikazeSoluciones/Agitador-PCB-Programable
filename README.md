@@ -34,6 +34,7 @@ COMPONENTES
     👉🏼 Potenciómetro: se utiliza para ajustar el contraste de la pantalla LCD.
 
 INSTALACIÓN
+
 Para instalar el dispositivo, siga los siguientes pasos y conecte como se muestra en el diagrama:
 
     Conecte la fuente dual de 12VDC al Arduino y a la pantalla LCD.
@@ -47,6 +48,7 @@ Para instalar el dispositivo, siga los siguientes pasos y conecte como se muestr
 ![Diagram](https://user-images.githubusercontent.com/89432904/230784781-0e57c439-7b25-407e-b503-335530997e15.jpg)
 
 USO
+
 Para utilizar el dispositivo, siga los siguientes pasos:
 
     Ajuste el contraste de la pantalla LCD utilizando el potenciómetro.
@@ -54,13 +56,16 @@ Para utilizar el dispositivo, siga los siguientes pasos:
     Presione el botón "Inicio" para iniciar el proceso de revelado.
     El speaker emitirá un sonido cuando se complete el tiempo de revelado programado.
     
-    Conclusiones
+CONCLUSIONES
+    
 El dispositivo "Agitador Programable con Arduino" es una herramienta útil para el proceso 
 de revelado de láminas fenólicas para PCB. Con su capacidad de programar el tiempo de 
 revelado y su motor de agitación, se asegura que el proceso de revelado sea uniforme y 
 efectivo. La pantalla LCD y el speaker hacen que el dispositivo sea fácil de usar y 
 monitorear, mientras que la fuente dual de 12VDC y el rele permiten un control seguro del 
 motor.
+
+![Agitator PCB_3](https://user-images.githubusercontent.com/89432904/230784877-05202138-1525-4ee2-a8c1-83ecd8ac3437.jpg)
 
 Este proyecto puede ser utilizado tanto por profesionales como por aficionados en la 
 creación de PCB, y ofrece una solución asequible y personalizada en comparación con opciones 
