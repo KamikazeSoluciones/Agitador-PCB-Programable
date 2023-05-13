@@ -45,7 +45,7 @@ Para instalar el dispositivo, siga los siguientes pasos y conecte como se muestr
     Conecte el cloruro férrico y las láminas fenólicas al dispositivo.
     Cargue el código en el Arduino y encienda el dispositivo.
     
-![Diagram](https://user-images.githubusercontent.com/89432904/230784781-0e57c439-7b25-407e-b503-335530997e15.jpg)
+![Diagram](https://github.com/KamikazeSoluciones/Agitador-PCB-Programable/assets/89432904/936c2a94-862e-4e2c-abd8-e73a664dfd5f)
 
 USO
 
